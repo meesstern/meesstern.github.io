@@ -1,9 +1,15 @@
 body{
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbSo97zsTH5gXO5DgyGoBDnJavrlAT1vb9Zp0xPg0ZePRcydK);
   width:auto;
   height:auto;
 
 }
+
+img.bg{
+  background-image: url(https://www.watersport-tv.nl/content/31400/news/clnt/3692223_1_org.JPG);
+  position: relative;
+  width: 100%
+}
+
 header{
 
   border: 4px maroon double;
