@@ -1,9 +1,8 @@
-body{ 
+body{
 background-color: red;
 background-image: url(https://www.watersport-tv.nl/content/31400/news/clnt/3692223_1_org.JPG);
 background-position: relative;
 background-size: 100%;
-}
 
 img.bg{
   background-image: url(https://www.watersport-tv.nl/content/31400/news/clnt/3692223_1_org.JPG);
@@ -18,7 +17,6 @@ header{
   width:800px;
   height:auto;
   background-color:blue
-
 }
 nav{
   border: 4px maroon double;
@@ -28,7 +26,7 @@ nav{
   background-color:green;
 }
 
-section{
+/* section{ */
   border: 4px maroon double;
   border-radius: 20px 20px 20px 20px;
   width:800px;
@@ -36,7 +34,7 @@ section{
   background-color:lightblue;
 }
 
-footer{
+/* footer{ */
   border: 4px maroon double;
   border-radius: 20px 20px 20px 20px;
   width:800px;
