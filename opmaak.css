@@ -1,17 +1,25 @@
 body{
-background-color: red;
-background-image: url(https://www.watersport-tv.nl/content/31400/news/clnt/3692223_1_org.JPG);
+background-color:#1CA8FF;
+/* background-image: url(https://www.watersport-tv.nl/content/31400/news/clnt/3692223_1_org.JPG);
 background-position: relative;
-background-size: 100%;
-} 
+background-size: 100%; */
+}
+
 
 li{
     display:inline;
-    border:red 2px solid;
+    border:red 4px solid;
     list-style-type: lower-latin;
 }
-
+ul,a{
+  text-decoration:none;
+  padding: 20px;
+}
+li:hover{
+  background-color:#8413FF;
+}
 header{
+  margin-left: 20px;
   font-size:100%;
   font-family: Georgia,"times new Roman", times, serif;
   border: 10px maroon double;
@@ -19,17 +27,19 @@ header{
   border-color: black;
   width:800px;
   height:auto;
-  background-color:blue;
+  background-color:#45FFD3;
 }
 nav{
-  border: 4px maroon double;
+  margin-left: 20px;
+  border: 10px maroon double;
   border-radius: 20px 20px 20px 20px;
   width:800px;
   height:auto;
-  background-color:green;
+  background-color:lightblue;
 }
 
  section{
+   margin-left: 20px;
   border: 4px maroon double;
   border-radius: 20px 20px 20px 20px;
   width:800px;
@@ -38,11 +48,12 @@ nav{
 }
 
  footer{
+   margin-left: 20px;
   border: 4px maroon double;
   border-radius: 20px 20px 20px 20px;
   width:800px;
   height:auto;
-  background-color:purple;
+  background-color:#6FA8CF;
 }
 
 p {
