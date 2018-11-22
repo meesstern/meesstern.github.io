@@ -1,5 +1,6 @@
 body{
-background-color:#E0E0E0;
+
+    background-color:#E0E0E0;
 /* background-image: url(https://www.watersport-tv.nl/content/31400/news/clnt/3692223_1_org.JPG);
 background-position: relative;
 background-size: 100%; */
@@ -8,7 +9,7 @@ background-size: 100%; */
 
 li{
     display:inline;
-    border:red 4px solid;
+    border:red 2px solid;
     list-style-type: lower-latin;
 }
 ul,a{
@@ -16,25 +17,23 @@ ul,a{
   padding: 20px;
 }
 li:hover{
-  background-color:#8413FF;
+  background-color:red;
 }
 header{
-  margin-left: 20px;
   font-size:100%;
   font-family: Georgia,"times new Roman", times, serif;
   border: 10px maroon double;
   border-radius:10px 10px 10px 10px;
   border-color: black;
-  width:1000px;
+  width:800px;
   height:auto;
   background-color:#45FFD3;
-  margin-bottom: 40px;
   text-align: center;
 }
 nav{
+  display: inline-block;
+  font-family: Georgia,"times new Roman", times, serif;
   text-align: center;
-  margin-left: 120px;
-  margin-bottom: 40px;
   border: 10px maroon double;
   border-radius: 20px 20px 20px 20px;
   width:800px;
@@ -43,8 +42,8 @@ nav{
 }
 
  section{
-   margin-left: 120px;
-  border: 4px maroon double;
+  font-family: Georgia,"times new Roman", times, serif;
+  border: 10px maroon double;
   border-radius: 20px 20px 20px 20px;
   width:800px;
   height:auto;
@@ -52,9 +51,8 @@ nav{
 }
 
  footer{
-
-   margin-left: 120px;
-   border: 4px maroon double;
+   font-family: Georgia,"times new Roman", times, serif;
+   border: 10px maroon double;
    border-radius: 20px 20px 20px 20px;
    width:800px;
    height:60px;
@@ -62,6 +60,14 @@ nav{
 }
 
 p {
+  font-family: Georgia,"times new Roman", times, serif;
+  text-align: justify;
+  text-decoration:underline;
+  text-align: center;
+}
+
+h1{
+  font-family: Georgia,"times new Roman", times, serif;
   text-align: justify;
   text-decoration:underline;
   text-align: center;
