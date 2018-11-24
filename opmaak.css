@@ -8,9 +8,10 @@ background-size: 100%; */
 
 
 li{
-    display:inline;
-    border:red 2px solid;
-    list-style-type: lower-latin;
+  border-radius:5px 5px 5px 5px;
+  display:block;
+  border:red 2px solid;
+  list-style-type: lower-latin;
 }
 ul,a{
   text-decoration:none;
