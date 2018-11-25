@@ -8,6 +8,7 @@ background-size: 100%; */
 
 
 li{
+  background-color:#605f5e;
   border-radius:5px 5px 5px 5px;
   display:block;
   border:red 2px solid;
@@ -56,7 +57,7 @@ nav{
    border: 10px maroon double;
    border-radius: 20px 20px 20px 20px;
    width:800px;
-   height:60px;
+   height:A;
    background-color:#6FA8CF;
 }
 
