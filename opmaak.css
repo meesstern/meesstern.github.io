@@ -27,7 +27,7 @@ header{
   border: 10px maroon double;
   border-radius:10px 10px 10px 10px;
   border-color: black;
-  width:800px;
+  width:99%;
   height:auto;
   background-color:#45FFD3;
   text-align: center;
@@ -38,17 +38,17 @@ nav{
   font-family: Georgia,"times new Roman", times, serif;
   text-align: center;
   border: 10px maroon double;
-  border-radius: 20px 20px 20px 20px;
-  width:800px;
-  height:100px;
+  border-radius: 10px 10px 10px 10px;
+  width:99%;
+  height: auto;
   background-color:lightblue;
 }
 
  section{
   font-family: Georgia,"times new Roman", times, serif;
   border: 10px maroon double;
-  border-radius: 20px 20px 20px 20px;
-  width:800px;
+  border-radius: 10px 10px 10px 10px;
+  width:99%;
   height:auto;
   background-color:lightblue;
 }
@@ -56,9 +56,9 @@ nav{
  footer{
    font-family: Georgia,"times new Roman", times, serif;
    border: 10px maroon double;
-   border-radius: 20px 20px 20px 20px;
-   width:800px;
-   height:A;
+  border-radius: 10px 10px 10px 10px;
+   width:99%;
+   height:auto;
    background-color:#6FA8CF;
 }
 
