@@ -70,6 +70,7 @@ p {
 }
 
 h1{
+  text-shadow: 1px 1px 1px 1px bleu;
   font-family: Georgia,"times new Roman", times, serif;
   text-align: justify;
   text-decoration:underline;
