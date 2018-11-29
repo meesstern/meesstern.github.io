@@ -10,9 +10,10 @@ background-size: 100%; */
 li{
   background-color:#07969C;
   border-radius:5px 5px 5px 5px;
-  display:block;
+  display:inline-grid;
   border:red 2px solid;
   list-style-type: lower-latin;
+  width:24%;
 }
 ul,a{
   text-decoration:none;
